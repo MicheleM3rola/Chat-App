@@ -2,11 +2,10 @@
 
 <img src="https://res.cloudinary.com/mike88/image/upload/v1641469723/Chat_app_j26wuc.jpg" title="Chat app" alt="Chat app" width="40%"/>
 
-The Excercise Tracker App is a fullstack application (MERN), the backend is developed with Node.js, Express and Mongo DB atlas to store the exercises data and the user data, and the UI is developed with React (class Components) and CSS3.
-The App include 4 differents Routes, The excercise List, The route to create the excercise,The route to create an user and finally the route to the specific exercise details.
+The Chat Application is developed with React for the Front-End and Node.js for the backend with Socket.io as framework for the real-time bidirectional 
+communication.
 
-The Front-End is deployed on Netlify 
-
+In the First Route or First Page we can create our Nickname and we can create a new room or decide to join one that already exist, and in the second Route we have the chat on the left and the list of user currently in the same room.
 
 
 
